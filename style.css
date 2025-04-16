@@ -43,7 +43,7 @@ body {
 }
 
 .card {
-    width: 300px;
+    width: 350px;
     border: 1px solid var(--black);
     background-color: var(--White);
     border-radius: 1rem;
